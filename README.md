@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 ## Math
 |  |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

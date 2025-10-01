@@ -4,7 +4,7 @@ class Solution:
         l = []
         while i<len(nums):
             if nums[i] in l:
-                nums.remove(nums[i])
+                nums.pop(i)
             else:
                 l.append(nums[i])
                 i+=1

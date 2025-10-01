@@ -45,4 +45,8 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0027-remove-element) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

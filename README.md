@@ -70,5 +70,6 @@
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1153-product-sales-analysis-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1153-product-sales-analysis-i) |
 | [1179-game-play-analysis-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1179-game-play-analysis-i) |
+| [1258-article-views-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

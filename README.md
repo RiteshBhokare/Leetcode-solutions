@@ -23,6 +23,7 @@
 | [0014-longest-common-prefix](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [3379-score-of-a-string](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3379-score-of-a-string) |
 ## Math
 |  |
 | ------- |

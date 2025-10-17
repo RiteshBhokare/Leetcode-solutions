@@ -22,6 +22,7 @@
 | [0001-two-sum](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [2561-number-of-distinct-averages](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [3194-find-words-containing-character](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3379-score-of-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -129,4 +131,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->

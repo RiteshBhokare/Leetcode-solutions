@@ -50,6 +50,7 @@
 | [0066-plus-one](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [2481-strictly-palindromic-number](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 | [2556-convert-the-temperature](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -72,6 +73,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0027-remove-element) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2481-strictly-palindromic-number](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 | [2561-number-of-distinct-averages](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
 ## Database
 |  |
@@ -147,4 +149,8 @@
 | ------- |
 | [3778-transform-array-by-parity](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->

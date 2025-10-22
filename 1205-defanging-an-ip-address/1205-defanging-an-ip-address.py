@@ -8,4 +8,4 @@ class Solution:
         #         address2+=i
         # return address2
 
-        return address.replace('.','[.]')
+        return address.replace(".","[.]")

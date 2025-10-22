@@ -15,6 +15,7 @@
 | [2048-build-array-from-permutation](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2561-number-of-distinct-averages](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
 | [3194-find-words-containing-character](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [4008-restore-finishing-order](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/4008-restore-finishing-order) |
@@ -69,6 +70,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0027-remove-element) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2561-number-of-distinct-averages](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
 ## Database
 |  |
@@ -121,6 +123,7 @@
 | [2048-build-array-from-permutation](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Prefix Sum
 |  |
 | ------- |

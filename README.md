@@ -33,6 +33,7 @@
 | [0014-longest-common-prefix](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [1205-defanging-an-ip-address](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |

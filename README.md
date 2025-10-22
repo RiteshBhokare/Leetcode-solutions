@@ -17,6 +17,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2561-number-of-distinct-averages](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
 | [3194-find-words-containing-character](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3194-find-words-containing-character) |
+| [4008-restore-finishing-order](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/4008-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0013-roman-to-integer](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [2561-number-of-distinct-averages](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4008-restore-finishing-order](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/4008-restore-finishing-order) |
 ## String
 |  |
 | ------- |

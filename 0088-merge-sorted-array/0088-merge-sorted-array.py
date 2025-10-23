@@ -3,10 +3,17 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        j = 0
-        for i in range(m,len(nums1)):
-            nums1[i] = nums2[j]
-            j+=1 
-        nums1.sort()
+
+        merged = nums1[:m] + nums2
+        merged.sort()
+        for i in range(len(nums1)):
+            nums1[i] = merged[i]
+
+            
+        # j = 0
+        # for i in range(m,len(nums1)):
+        #     nums1[i] = nums2[j]
+        #     j+=1 
+        # nums1.sort()
 
         

@@ -1,9 +1,20 @@
 class Solution:
     def findErrorNums(self, nums: List[int]) -> List[int]:
+        nums.sort()
+        dup = nums[0]
+        curr = 1
         
-        for ele in nums: 
-            if nums.count(ele) == 2:
-                freq = ele
+        for i in range(1,len(nums)):
+            if nums[i-1] == nums[i]:
+                dup = nums[i]
+                break
+
         for i in range(len(nums)):
-            if i+1 not in nums:
-                return [freq,i+1] 
+            
+            if curr not in nums:
+                print(nums)
+                return [dup,curr]
+            
+            curr+=1
+            
+

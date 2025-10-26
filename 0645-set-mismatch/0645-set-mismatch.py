@@ -11,7 +11,6 @@ class Solution:
 
         for i in range(len(nums)):   
             if curr not in nums:
-                print(nums)
                 return [dup,curr]
             
             curr+=1

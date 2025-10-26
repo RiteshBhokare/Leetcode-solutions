@@ -9,8 +9,7 @@ class Solution:
                 dup = nums[i]
                 break
 
-        for i in range(len(nums)):
-            
+        for i in range(len(nums)):   
             if curr not in nums:
                 print(nums)
                 return [dup,curr]

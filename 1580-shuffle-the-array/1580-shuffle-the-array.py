@@ -4,8 +4,6 @@ class Solution:
         l2 = nums[n:]
         l3=[]
         for i in range(n):
-            l3.extend([l1[i], l2[i]])
-            
+            l3.append(l1[i])
+            l3.append(l2[i])
         return l3
-
-  

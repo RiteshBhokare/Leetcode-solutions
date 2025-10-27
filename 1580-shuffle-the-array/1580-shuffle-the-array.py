@@ -1,6 +1,5 @@
 class Solution:
     def shuffle(self, nums: List[int], n: int) -> List[int]:
-
         l3=[]
         for i in range(n):
             l3.append(nums[i])

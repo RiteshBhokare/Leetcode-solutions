@@ -15,6 +15,7 @@
 | [0645-set-mismatch](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1580-shuffle-the-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [1791-richest-customer-wealth](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
@@ -177,4 +178,8 @@
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2507-number-of-common-factors) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->

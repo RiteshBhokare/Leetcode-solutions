@@ -66,6 +66,7 @@
 | [2556-convert-the-temperature](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | ------- |
 | [0136-single-number](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0645-set-mismatch) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
 | ------- |

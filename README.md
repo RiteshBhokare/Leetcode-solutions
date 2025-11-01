@@ -74,6 +74,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Binary Search
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [2058-concatenation-of-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Prefix Sum
 |  |
 | ------- |

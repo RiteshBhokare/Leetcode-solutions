@@ -15,6 +15,7 @@
 | [0645-set-mismatch](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1580-shuffle-the-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1791-richest-customer-wealth](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
@@ -51,6 +52,7 @@
 | [0383-ransom-note](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1797-goal-parser-interpretation](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1797-goal-parser-interpretation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
@@ -169,6 +171,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Memoization
 |  |
 | ------- |
@@ -197,4 +200,8 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1791-richest-customer-wealth) |
+## Greedy
+|  |
+| ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 <!---LeetCode Topics End-->

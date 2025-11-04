@@ -59,6 +59,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3379-score-of-a-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -155,6 +156,7 @@
 | [2058-concatenation-of-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3811-reverse-degree-of-a-string](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Prefix Sum
 |  |

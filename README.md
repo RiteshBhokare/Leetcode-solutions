@@ -24,6 +24,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2561-number-of-distinct-averages](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
+| [2714-left-and-right-sum-differences](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
 | [3194-find-words-containing-character](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3778-transform-array-by-parity) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2714-left-and-right-sum-differences](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
 ## Sorting
 |  |
 | ------- |

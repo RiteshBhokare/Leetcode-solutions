@@ -28,6 +28,7 @@
 | [3194-find-words-containing-character](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3778-transform-array-by-parity) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4008-restore-finishing-order](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/4008-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Binary Search
 |  |

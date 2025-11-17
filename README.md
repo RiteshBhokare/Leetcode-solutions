@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0645-set-mismatch) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |

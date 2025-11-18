@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |

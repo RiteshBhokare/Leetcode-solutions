@@ -24,6 +24,7 @@
 | [2058-concatenation-of-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2561-number-of-distinct-averages](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
 | [2714-left-and-right-sum-differences](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
@@ -43,6 +44,7 @@
 | [0645-set-mismatch](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2561-number-of-distinct-averages](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -168,6 +170,7 @@
 | [2058-concatenation-of-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3226-minimum-number-game](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3226-minimum-number-game) |
 | [3811-reverse-degree-of-a-string](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/4051-remove-zeros-in-decimal-representation) |
@@ -181,6 +184,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0645-set-mismatch) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2561-number-of-distinct-averages](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
 | [3226-minimum-number-game](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3226-minimum-number-game) |
 | [3778-transform-array-by-parity](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3778-transform-array-by-parity) |

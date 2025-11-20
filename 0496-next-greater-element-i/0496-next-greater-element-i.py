@@ -12,6 +12,7 @@ class Solution:
                 elif nums2[idx] < sl[i]:
                     l.append(sl[i])
                     break
+                    
                 i+=1
             else:
                 l.append(-1)

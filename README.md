@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0136-single-number) |
+| [0496-next-greater-element-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -42,6 +43,7 @@
 | [0013-roman-to-integer](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Trie
 |  |
 | ------- |
@@ -240,4 +243,8 @@
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3226-minimum-number-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

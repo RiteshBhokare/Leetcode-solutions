@@ -19,6 +19,7 @@
 | [1580-shuffle-the-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
@@ -47,6 +48,7 @@
 | [0645-set-mismatch](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
@@ -67,6 +69,7 @@
 | [0782-jewels-and-stones](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1797-goal-parser-interpretation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
@@ -175,6 +178,7 @@
 | ------- |
 | [0136-single-number](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0645-set-mismatch) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
@@ -216,6 +220,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [1635-number-of-good-pairs](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3778-transform-array-by-parity](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser

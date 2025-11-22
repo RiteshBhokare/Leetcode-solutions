@@ -69,6 +69,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1797-goal-parser-interpretation) |
@@ -111,6 +112,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |

@@ -176,6 +176,7 @@
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1908-recyclable-and-low-fat-products) |
+| [1965-employees-with-missing-information](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1965-employees-with-missing-information) |
 | [2024-calculate-special-bonus](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2024-calculate-special-bonus) |
 | [2087-confirmation-rate](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |

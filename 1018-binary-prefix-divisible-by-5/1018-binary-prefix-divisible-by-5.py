@@ -3,8 +3,5 @@ class Solution:
         curr = ""
         for i in range(len(nums)):
             curr += str(nums[i])
-            if int(curr,2)%5 == 0:
-                nums[i] = True
-            else:
-                nums[i] = False
+            nums[i] = int(curr,2)%5 == 0
         return nums

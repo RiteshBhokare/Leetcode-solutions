@@ -90,6 +90,7 @@
 | [0066-plus-one](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [1635-number-of-good-pairs](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [2169-count-operations-to-obtain-zero](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
@@ -261,4 +262,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->

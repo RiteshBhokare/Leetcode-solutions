@@ -49,6 +49,7 @@
 | [0496-next-greater-element-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -91,6 +92,7 @@
 | [0069-sqrtx](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0326-power-of-three) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [2169-count-operations-to-obtain-zero](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2481-strictly-palindromic-number) |

@@ -69,6 +69,7 @@
 | [0205-isomorphic-strings](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0709-to-lower-case](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

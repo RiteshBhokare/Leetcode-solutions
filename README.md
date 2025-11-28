@@ -37,6 +37,7 @@
 | [3226-minimum-number-game](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3226-minimum-number-game) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3778-transform-array-by-parity](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4008-restore-finishing-order](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/4008-restore-finishing-order) |

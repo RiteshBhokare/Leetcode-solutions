@@ -36,6 +36,7 @@
 | [3194-find-words-containing-character](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3226-minimum-number-game) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3778-transform-array-by-parity](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3778-transform-array-by-parity) |
@@ -106,6 +107,7 @@
 | [2812-find-the-maximum-achievable-number](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |

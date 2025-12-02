@@ -56,6 +56,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
@@ -83,6 +84,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1797-goal-parser-interpretation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2502-sort-the-people) |

@@ -29,6 +29,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2367-number-of-arithmetic-triplets](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2561-number-of-distinct-averages](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
@@ -59,6 +60,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2367-number-of-arithmetic-triplets](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -141,6 +143,7 @@
 | [0125-valid-palindrome](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2367-number-of-arithmetic-triplets](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 | [2561-number-of-distinct-averages](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
 ## Database
@@ -258,6 +261,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |

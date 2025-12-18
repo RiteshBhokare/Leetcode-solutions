@@ -106,6 +106,7 @@
 | [0326-power-of-three](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2491-smallest-even-multiple) |
@@ -232,6 +233,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0645-set-mismatch) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
@@ -276,6 +278,7 @@
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

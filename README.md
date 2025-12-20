@@ -37,6 +37,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3226-minimum-number-game) |
+| [3285-find-indices-of-stable-mountains](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |

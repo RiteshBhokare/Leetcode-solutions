@@ -181,6 +181,7 @@
 | [1301-reformat-department-table](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1301-reformat-department-table) |
 | [1317-monthly-transactions-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1338-queries-quality-and-percentage) |
+| [1341-movie-rating](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1341-movie-rating) |
 | [1390-average-selling-price](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1390-average-selling-price) |
 | [1393-capital-gainloss](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1393-capital-gainloss) |
 | [1415-students-and-examinations](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1415-students-and-examinations) |

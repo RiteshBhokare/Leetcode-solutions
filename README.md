@@ -169,6 +169,7 @@
 | [0607-sales-person](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0626-exchange-seats) |
 | [0627-swap-salary](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1153-product-sales-analysis-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1153-product-sales-analysis-i) |

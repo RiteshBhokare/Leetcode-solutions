@@ -15,6 +15,7 @@
 | [0496-next-greater-element-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1580-shuffle-the-array) |
@@ -56,6 +57,7 @@
 | [0496-next-greater-element-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |

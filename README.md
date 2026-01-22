@@ -41,6 +41,7 @@
 | [3285-find-indices-of-stable-mountains](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3502-minimum-cost-to-reach-every-position) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -67,6 +68,7 @@
 | [2502-sort-the-people](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4008-restore-finishing-order](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/4008-restore-finishing-order) |
@@ -226,6 +228,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3226-minimum-number-game](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3226-minimum-number-game) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Prefix Sum
@@ -289,6 +292,7 @@
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3226-minimum-number-game) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -297,4 +301,16 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0326-power-of-three) |
+## Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->

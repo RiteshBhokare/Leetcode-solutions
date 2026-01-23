@@ -35,6 +35,7 @@
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2561-number-of-distinct-averages](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
 | [2714-left-and-right-sum-differences](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3226-minimum-number-game) |
@@ -67,6 +68,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |

@@ -35,6 +35,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
 | [2714-left-and-right-sum-differences](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -121,6 +122,7 @@
 | [2481-strictly-palindromic-number](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2507-number-of-common-factors) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2556-convert-the-temperature](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |

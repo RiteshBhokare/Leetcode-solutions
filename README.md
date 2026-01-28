@@ -36,6 +36,7 @@
 | [2502-sort-the-people](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2540-minimum-common-value](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2561-number-of-distinct-averages](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
 | [2714-left-and-right-sum-differences](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -71,6 +72,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2367-number-of-arithmetic-triplets](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2502-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2561-number-of-distinct-averages](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -137,6 +139,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [2540-minimum-common-value](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Stack
 |  |
 | ------- |
@@ -158,6 +161,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
+| [2540-minimum-common-value](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2561-number-of-distinct-averages](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
 ## Database
 |  |

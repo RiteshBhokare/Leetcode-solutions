@@ -99,6 +99,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1797-goal-parser-interpretation) |
+| [1844-replace-all-digits-with-characters](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |

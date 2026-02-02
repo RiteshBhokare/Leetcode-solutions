@@ -120,6 +120,7 @@
 | [0070-climbing-stairs](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1492-the-kth-factor-of-n](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1635-number-of-good-pairs](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
@@ -297,6 +298,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [2491-smallest-even-multiple](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2507-number-of-common-factors) |
 ## Matrix

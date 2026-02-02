@@ -91,6 +91,7 @@
 | [0125-valid-palindrome](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
@@ -160,6 +161,7 @@
 | [0027-remove-element](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -272,6 +274,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Memoization
 |  |

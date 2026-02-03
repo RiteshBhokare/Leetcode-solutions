@@ -61,6 +61,7 @@
 | [0001-two-sum](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -90,6 +91,7 @@
 | [0058-length-of-last-word](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -260,6 +262,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1200-minimum-absolute-difference](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |

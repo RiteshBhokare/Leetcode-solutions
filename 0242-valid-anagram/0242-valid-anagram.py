@@ -1,10 +1,8 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        l1 = sorted(s)
-        l2 = sorted(t)
-        if len(l1) != len(l2):
+        if len(s) != len(t):
             return False
-        for i in range(len(l1)):
-            if l1[i] != l2[i]:
+        for i in set(s):
+            if s.count(i) != t.count(i):
                 return False
         return True

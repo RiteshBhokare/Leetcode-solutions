@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0136-single-number) |
+| [0219-contains-duplicate-ii](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -61,6 +62,7 @@
 | [0001-two-sum](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -344,5 +346,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->

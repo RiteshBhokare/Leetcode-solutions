@@ -113,6 +113,7 @@
 | [2502-sort-the-people](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3379-score-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3811-reverse-degree-of-a-string](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -172,6 +173,7 @@
 | [2481-strictly-palindromic-number](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2561-number-of-distinct-averages](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2561-number-of-distinct-averages) |
+| [3794-reverse-string-prefix](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Database
 |  |
 | ------- |

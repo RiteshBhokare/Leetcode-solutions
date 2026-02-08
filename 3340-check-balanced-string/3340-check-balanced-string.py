@@ -7,6 +7,5 @@ class Solution:
                 even += int(num[i])
             else:
                 odd += int(num[i])
-        if even == odd:
-            return True
-        return False
+            
+        return  even == odd

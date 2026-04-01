@@ -216,6 +216,7 @@
 | [1258-article-views-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1301-reformat-department-table) |
 | [1317-monthly-transactions-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1317-monthly-transactions-i) |
+| [1321-restaurant-growth](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1321-restaurant-growth) |
 | [1338-queries-quality-and-percentage](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1338-queries-quality-and-percentage) |
 | [1341-movie-rating](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1341-movie-rating) |
 | [1390-average-selling-price](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1390-average-selling-price) |

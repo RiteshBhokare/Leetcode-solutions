@@ -213,6 +213,7 @@
 | [1164-product-price-at-a-given-date](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1164-product-price-at-a-given-date) |
 | [1174-sales-analysis-iii](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1179-game-play-analysis-i) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1301-reformat-department-table) |

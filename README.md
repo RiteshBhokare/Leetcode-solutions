@@ -239,6 +239,7 @@
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1890-the-latest-login-in-2020](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1890-the-latest-login-in-2020) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1892-find-total-time-spent-by-each-employee) |
+| [1907-count-salary-categories](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1907-count-salary-categories) |
 | [1908-recyclable-and-low-fat-products](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [1965-employees-with-missing-information](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/1965-employees-with-missing-information) |
 | [2024-calculate-special-bonus](https://github.com/RiteshBhokare/Leetcode-solutions/tree/master/2024-calculate-special-bonus) |
